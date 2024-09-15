@@ -5,7 +5,7 @@
 
 Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate about all things data and tech. I'm always learning, coding, and sharing knowledge. Here's a bit about what I'm working on and some of my skills.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://tenor.com/view/yoda-star-wars-learning-gif-14395199" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
