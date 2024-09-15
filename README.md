@@ -5,7 +5,8 @@
 
 Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate about all things data and tech. I'm always learning, coding, and sharing knowledge. Here's a bit about what I'm working on and some of my skills.
 
-<img align="right" alt="img" src="https://tenor.com/view/yoda-star-wars-learning-gif-14395199" width="50%" height="auto" />
+<img align="right" alt="Yoda Star Wars Learning GIF" src="YOUR_NEW_GIF_URL" width="50%" height="auto" />
+
 
 
 #### 🌱 Things I am currently working on: 
@@ -47,7 +48,7 @@ Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate
 #### 🌍 Volunteering:  
 - Co-Organizer of STLFULLSTACKERS, STLCRYPTO, and Saint Louis Business Book Club  
 
-<img align="right" alt="Yoda GIF" src="https://media.tenor.com/images/33a4c5ee7f3d7c0b477fddc45d54150e/tenor.gif" width="50%" height="auto" />
+
 
 #### 👋 About Me:
 I'm a database enthusiast who loves diving into data, solving complex problems, and building efficient systems. Outside of work, I'm a fan of continuous learning, community building, and contributing to tech groups. Always excited to connect with like-minded folks!
