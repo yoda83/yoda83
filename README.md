@@ -5,7 +5,7 @@
 
 Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate about all things data and tech. I'm always learning, coding, and sharing knowledge. Here's a bit about what I'm working on and some of my skills.
 
-<img align="right" alt="Yoda Star Wars Learning GIF" src="YOUR_NEW_GIF_URL" width="50%" height="auto" />
+<img align="right" alt="Yoda Star Wars Learning GIF" src="https://github.com/yoda83/yoda83/blob/main/yoda-star-wars.gif?raw=true" width="50%" height="auto" />
 
 
 
