@@ -7,8 +7,6 @@ Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate
 
 <img align="right" alt="Yoda Star Wars Learning GIF" src="https://github.com/yoda83/yoda83/blob/main/yoda-star-wars.gif?raw=true" width="50%" height="auto" />
 
-
-
 #### 🌱 Things I am currently working on: 
 - Expanding my knowledge in PostgreSQL, SQL Server, and AWS.
 - Building projects with FastAPI, React, and Docker.
@@ -21,7 +19,9 @@ Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yoda83&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yoda83&show_icons=true&hide_border=true&theme=dark" />
+ 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoda83&hide=smalltalk&theme=dark&layout=compact&hide_border=true" width="40%" style="margin-bottom: 20px;" />
+
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
@@ -48,7 +48,6 @@ Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate
 #### 🌍 Volunteering:  
 - Co-Organizer of STLFULLSTACKERS, STLCRYPTO, and Saint Louis Business Book Club  
 
-
-
 #### 👋 About Me:
 I'm a database enthusiast who loves diving into data, solving complex problems, and building efficient systems. Outside of work, I'm a fan of continuous learning, community building, and contributing to tech groups. Always excited to connect with like-minded folks!
+
