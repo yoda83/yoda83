@@ -3,6 +3,9 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yoda83)
 
+![](https://img.shields.io/github/followers/yoda83?style=social) 
+![Profile views](https://komarev.com/ghpvc/?username=yoda83&color=brightgreen)
+
 Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate about all things data and tech. I'm always learning, coding, and sharing knowledge. Here's a bit about what I'm working on and some of my skills.
 
 <img align="right" alt="Yoda Star Wars Learning GIF" src="https://github.com/yoda83/yoda83/blob/main/yoda-star-wars.gif?raw=true" width="50%" height="auto" />
@@ -21,7 +24,6 @@ Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yoda83&show_icons=true&hide_border=true&theme=dark" />
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoda83&hide=smalltalk&theme=dark&layout=compact&hide_border=true" width="40%" style="margin-bottom: 20px;" />
-
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
@@ -50,4 +52,3 @@ Welcome to my GitHub page! I'm Bryan, a Senior Database Administrator passionate
 
 #### 👋 About Me:
 I'm a database enthusiast who loves diving into data, solving complex problems, and building efficient systems. Outside of work, I'm a fan of continuous learning, community building, and contributing to tech groups. Always excited to connect with like-minded folks!
-
